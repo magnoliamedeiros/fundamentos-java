@@ -1,2 +1,2 @@
 # Fundamentos de Java
-Repositório destinado aos exercícios de fundamentos básicos em Java
+Repositório destinado aos exercícios de Fundamentos em Java
